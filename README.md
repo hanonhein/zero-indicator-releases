@@ -7,6 +7,7 @@ Get the right file on the **Releases** page (or from the official website):
 
 | Platform | File |
 |---|---|
+| Windows 10 (2004+) or 11, 64-bit | `ZeroIndicator-Setup-1.0.0.exe` |
 | Mac (macOS 14 or newer, Apple chip and Intel) | `ZeroIndicator-1.0-mac.dmg` |
 
 Each release lists the file's SHA-256 fingerprint so you can check your download.
